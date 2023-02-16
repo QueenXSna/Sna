@@ -2,7 +2,7 @@ import os,platform
 
 os.system('git pull')
 
- import os
+
 
 os.system('termux-setup-storage')
 
